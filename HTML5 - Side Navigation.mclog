@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2018 r2 Generated HTML5 - Side Navigation.fltar" Date="2019-03-25T06:54:42.0819528-07:00">
+    <Messages>Publishing target HTML5 - Side Navigation...
+Publish failed: Destination file not found: file:///D:/Documents/My Projects/Exscribe EHR WEB - CSH Example/Example CSH Using Herschel Template/
+Saving log to "D:\Documents\My Projects\Exscribe EHR WEB - CSH Example\Example CSH Using Herschel Template\Output\AndrewRux\HTML5 - Side Navigation\HTML5 - Side Navigation.mclog"
+</Messages>
+    <Warnings />
+    <Errors>
+        <LogEntry File="../../../Project/Targets/HTML5 - Side Navigation.fltar" Message="Publish failed: Destination file not found: file:///D:/Documents/My Projects/Exscribe EHR WEB - CSH Example/Example CSH Using Herschel Template/&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Publisher" Target="HTML5 - Side Navigation" ErrorID="140003" />
+    </Errors>
+</MadCapLog>
