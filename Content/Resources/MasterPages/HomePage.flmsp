@@ -1,26 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="187" MadCap:lastWidth="1177">
     <head>
-        <meta charset="utf-8" />
-        <meta name="description" content="" />
-        <meta name="author" content="" /><title></title>
     </head>
     <body>
-        <div>
             <MadCap:bodyProxy />
-            <div class="footer center">
-                <div class="home-footer">
-                    <div>
-                        <p class="footer-logo"><a href="http://www.madcapsoftware.com/"><img src="../Images/Home/PlaceholderLogo-white.png" alttext="" class="Hyperlinked footer-logo" /> </a>
-                        </p>
-                    </div>
-                    <div class="footer-icons"><a href="[%=General.Twitter%]" target="_blank"><img src="../Images/Home/Twitter-Icon-White_40x40.png" alttext="" class="Hyperlinked" style="width: 40px;height: 40px;" /></a><a href="[%=General.Facebook%]http://www.facebook.com/madcapdocteam" target="_blank"><img src="../Images/Home/Facebook-Icon-White.png" alttext="" class="Hyperlinked" /></a>
-                    </div>
-                </div>
-                <div class="outer-row">
-                    <p class="footer-sub">Created Using MadCap&#160;Flare</p>
-                </div>
+            <div class="home-footer">
+                <table style="width: 100%;">
+                    <col />
+                    <col />
+                    <tbody>
+                        <tr>
+                            <td>
+                                <p class="footer">info@yourcompany.com</p>
+                                <p class="footer">858.123.4567</p>
+                                <p class="footer">1234 Lorem Ipsum Ave.</p>
+                                <p class="footer">La Jolla,&#160;CA 92037</p>
+                            </td>
+                            <td style="text-align: right;">
+                                <img src="../Images/PlaceholderLogo-white.png" />
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
-        </div>
     </body>
 </html>
