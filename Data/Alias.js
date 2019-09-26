@@ -1,0 +1,10 @@
+var xmlAliasData = "";
+xmlAliasData += '<?xml version=\"1.0\" encoding=\"utf-8\"?>';
+xmlAliasData += '<CatapultAliasFile>';
+xmlAliasData += '    <Map Name=\"main\" Link=\"Home.htm\" ResolvedId=\"1000\" />';
+xmlAliasData += '    <Map Name=\"appointment\" Link=\"Appointments/Appointments.htm\" ResolvedId=\"1001\" />';
+xmlAliasData += '    <Map Name=\"appointment-filter\" Link=\"Appointments/AppointmentsFilter.htm\" ResolvedId=\"1002\" />';
+xmlAliasData += '    <Map Name=\"appointment-toolbar\" Link=\"Appointments/AppointmentsToolbar.htm\" ResolvedId=\"1003\" />';
+xmlAliasData += '    <Map Name=\"appointment-flags\" Link=\"Appointments/AppointmentsFlags.htm\" ResolvedId=\"1004\" />';
+xmlAliasData += '</CatapultAliasFile>';
+MadCap.Utilities.Xhr._FilePathToXmlStringMap.Add('Alias', xmlAliasData);
